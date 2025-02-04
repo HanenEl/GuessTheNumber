@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Core/console/pom.xml" />
+        <option value="$PROJECT_DIR$/webapp/pom.xml" />
       </set>
     </option>
   </component>
